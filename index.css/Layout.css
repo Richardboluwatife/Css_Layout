@@ -95,7 +95,7 @@ a{
 
 #About,
 #Career:hover,
-#Departments:hover{
+#Departments :hover{
     color: #00b39b;
     text-decoration: none;
 }
@@ -519,6 +519,7 @@ img {
     text-align: center;
     width: 220px;
     border-radius: 2px;
+    -webkit-text-fill-color: #00b39b;
 }
 #leader {
     margin-bottom: 20px;
