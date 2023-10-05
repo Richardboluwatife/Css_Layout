@@ -1,4 +1,4 @@
-body{
+/* body{
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
@@ -12,7 +12,7 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 2rem 0;
-    position: fi xed;
+    position: fixed;
     top: 0;
     width: 100vw;
     background-color: white;
@@ -739,4 +739,4 @@ footer p {
 }
 p {
     margin: 0 0 10px;
-}
+} */
